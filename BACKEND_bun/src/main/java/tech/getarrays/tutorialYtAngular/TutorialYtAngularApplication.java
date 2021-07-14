@@ -14,6 +14,7 @@ public class TutorialYtAngularApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TutorialYtAngularApplication.class, args);
+		System.out.println("modificare");
 	}
 
 	@Bean
